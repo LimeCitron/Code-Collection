@@ -1,0 +1,9 @@
+D:\프로그래밍 프로젝트\입영작 훈련 프로그램\입영작 훈련 프로그램\bin\Debug\입영작 훈련 프로그램.exe.config
+D:\프로그래밍 프로젝트\입영작 훈련 프로그램\입영작 훈련 프로그램\bin\Debug\입영작 훈련 프로그램.exe
+D:\프로그래밍 프로젝트\입영작 훈련 프로그램\입영작 훈련 프로그램\bin\Debug\입영작 훈련 프로그램.pdb
+D:\프로그래밍 프로젝트\입영작 훈련 프로그램\입영작 훈련 프로그램\obj\Debug\입영작 훈련 프로그램.csprojResolveAssemblyReference.cache
+D:\프로그래밍 프로젝트\입영작 훈련 프로그램\입영작 훈련 프로그램\obj\Debug\입영작_훈련_프로그램.Form1.resources
+D:\프로그래밍 프로젝트\입영작 훈련 프로그램\입영작 훈련 프로그램\obj\Debug\입영작_훈련_프로그램.Properties.Resources.resources
+D:\프로그래밍 프로젝트\입영작 훈련 프로그램\입영작 훈련 프로그램\obj\Debug\입영작 훈련 프로그램.csproj.GenerateResource.Cache
+D:\프로그래밍 프로젝트\입영작 훈련 프로그램\입영작 훈련 프로그램\obj\Debug\입영작 훈련 프로그램.exe
+D:\프로그래밍 프로젝트\입영작 훈련 프로그램\입영작 훈련 프로그램\obj\Debug\입영작 훈련 프로그램.pdb
